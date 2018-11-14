@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package nhom7.dowload;
+package phan2.dowload;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
@@ -23,7 +23,7 @@ public class dowload extends javax.swing.JFrame implements
         initComponents();
         jProgressBar1.setStringPainted(true);
         jProgressBar1.setVisible(false);
-        jTextField2.setText("C:\\Users\\Admin\\Desktop\\show");
+        jTextField2.setText("C:\\Users\\Admin\\Desktop");
     }
 
     /**

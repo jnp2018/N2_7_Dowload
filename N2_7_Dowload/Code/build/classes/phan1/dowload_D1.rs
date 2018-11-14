@@ -1,0 +1,2 @@
+Laptrinhmang.dowload_D1
+Laptrinhmang.dowload_D1$DownloadTask
